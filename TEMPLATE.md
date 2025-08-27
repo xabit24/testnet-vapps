@@ -1,4 +1,4 @@
-# vApp Submission: [Your Project Name]
+# vApp Submission: [Bond]
 
 ## Verification
 ```yaml
@@ -8,16 +8,16 @@ timestamp: "2025-01-15"
 ```
 
 ## Developer
-- **Name**: Your Name
-- **GitHub**: @your-username
-- **Discord**: username#1234
+- **Name**: maincore69
+- **GitHub**: @xabit24
+- **Discord**: maincore69
 - **Experience**: Brief background
 
 ## Project
 
 ### Name & Category
-- **Project**: Your vApp Name
-- **Category**: identity/defi/social/gaming/infrastructure/other
+- **Project**: Bond
+- **Category**: defi
 
 ### Description
 What problem does your vApp solve? What does it do?
